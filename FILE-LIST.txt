@@ -1,0 +1,34 @@
+# ETF & NPF Calculator PWA - File List
+
+## Upload ALL these files to GitHub:
+
+### 📄 Core Files
+- index.html
+- app.js  
+- style.css
+- Logo.jpg
+
+### 🔧 PWA Files
+- manifest.json
+- service-worker.js
+- browserconfig.xml
+
+### 📁 Icons Directory
+- icons/icon-72x72.png
+- icons/icon-96x96.png
+- icons/icon-128x128.png
+- icons/icon-144x144.png
+- icons/icon-152x152.png
+- icons/icon-192x192.png
+- icons/icon-384x384.png
+- icons/icon-512x512.png
+
+### 📖 Documentation (Optional)
+- README.md
+- GITHUB-DEPLOYMENT.md
+- DEPLOYMENT.md
+- PWA_CONVERSION_SUMMARY.md
+
+**Total: 11 essential files + 8 icons = 19 files minimum**
+
+Just upload everything to GitHub repository and enable Pages! 🚀
